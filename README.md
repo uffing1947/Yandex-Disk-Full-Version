@@ -240,4 +240,4 @@ This repository serves as the official landing page for Yandex.Disk. The softwar
 **Get the most recent version of Yandex.Disk today!**
 
 ---
-**Last updated:** 2026-10-04 22:45:51 UTC
+**Last updated:** 2026-10-05 01:37:29 UTC
